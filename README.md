@@ -8,12 +8,12 @@ Business Revenue Analytics Dashboard (Power BI)
 A fully interactive Power BI dashboard designed to analyze global business revenue across regions, products, stores, and sales representatives.
 The purpose is to help stakeholders identify revenue drivers, monitor KPIs, and make data-driven decisions using filters, rankings, and trend analysis.
 
-### 3. Tech Stack
-Power BI Desktop
-Power Query (Data Cleaning & ETL)
-DAX Measures
-Excel (Source Data)
-Data Modeling (Star Schema)
+### 3. Tech Stack<br>
+Power BI Desktop<br>
+Power Query (Data Cleaning & ETL)<br>
+DAX Measures<br>
+Excel (Source Data)<br>
+Data Modeling (Star Schema)<br>
 
 ### 4. Objective / Client Need
 
