@@ -1,4 +1,4 @@
-# Revenue-Dashboard
+# BUSINESS REVENUE DASHBOARD
 ## This is my first Git Repository
 ### 1. Project Title / Headline
 Business Revenue Analytics Dashboard (Power BI)
