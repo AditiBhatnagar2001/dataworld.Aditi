@@ -13,7 +13,6 @@ Power BI Desktop<br>
 Power Query (Data Cleaning & ETL)<br>
 DAX Measures<br>
 Excel (Source Data)<br>
-Data Modeling (Star Schema)<br>
 
 ### 4. Objective / Client Need<br>
 
