@@ -25,7 +25,9 @@ Provides trend analysis across months and quarters.<br>
 Includes KPIs to track performance at a glance.<br>
 Allows users to filter by Year, Quarter, and Store Rank.<br>
 Helps management identify sales reps performance & transaction counts.<br>
-Supports strategic planning and sales optimization.<br>
+
+
+
 
 
 
