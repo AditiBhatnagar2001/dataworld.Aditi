@@ -18,7 +18,9 @@ Data Modeling (Star Schema)
 ### 4. Objective / Client Need
 
 The client requested a dashboard that:
+
 Shows a single-view summary of the company’s global revenue.
+
 Highlights top-performing regions, countries, products, and stores.
 Provides trend analysis across months and quarters.
 Includes KPIs to track performance at a glance.
