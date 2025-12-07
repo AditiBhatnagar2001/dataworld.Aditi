@@ -1,9 +1,9 @@
 # Revenue-Dashboard
-This is my first Git Repository
-1. Project Title / Headline
-   
+##This is my first Git Repository
+###1. Project Title / Headline
 Business Revenue Analytics Dashboard (Power BI)
-3. Short Description / Purpose
+
+###2. Short Description / Purpose
 
 A fully interactive Power BI dashboard designed to analyze global business revenue across regions, products, stores, and sales representatives.
 The purpose is to help stakeholders identify revenue drivers, monitor KPIs, and make data-driven decisions using filters, rankings, and trend analysis.
