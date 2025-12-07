@@ -15,15 +15,17 @@ DAX Measures<br>
 Excel (Source Data)<br>
 Data Modeling (Star Schema)<br>
 
-### 4. Objective / Client Need
+### 4. Objective / Client Need<br>
 
-The client requested a dashboard that:
+The client requested a dashboard that:<br>
 
-Shows a single-view summary of the company’s global revenue.
+Shows a single-view summary of the company’s global revenue.<br>
+Highlights top-performing regions, countries, products, and stores.<br>
+Provides trend analysis across months and quarters.<br>
+Includes KPIs to track performance at a glance.<br>
+Allows users to filter by Year, Quarter, and Store Rank.<br>
+Helps management identify sales reps performance & transaction counts.<br>
+Supports strategic planning and sales optimization.<br>
 
-Highlights top-performing regions, countries, products, and stores.
-Provides trend analysis across months and quarters.
-Includes KPIs to track performance at a glance.
-Allows users to filter by Year, Quarter, and Store Rank.
-Helps management identify sales reps performance & transaction counts.
-Supports strategic planning and sales optimization.
+
+
